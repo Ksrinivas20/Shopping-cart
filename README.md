@@ -12,12 +12,12 @@ Shopify website template is an online shopping website with the functionality of
 * CSS.
 * JQ.
 
-## Silent Features:
+## Salient Features:
 
-* Unique Minimal and dynaic design.
+* Unique Minimal and dynamic design.
 * Easy Logic.
 * Stores the data of user's purchased items.
-* Data is stored in the Local Storage of browser.
+* Data is stored in the Local Storage of the browser.
 * Bills are also generated.
 
 ## Important JS functions and methods:
